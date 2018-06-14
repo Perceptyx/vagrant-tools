@@ -107,9 +107,9 @@ Check the [CHANGELOG][5] to know about recent changes.
 
 [1]: http://nginx.org
 [2]: https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2
-[3]: https://github.com/amontalban/vagrant-tools/blob/master/VAGRANT-UPLOAD.md
-[4]: https://github.com/amontalban/vagrant-tools/blob/master/VAGRANT-DOWNLOAD.md
-[5]: https://github.com/amontalban/vagrant-tools/blob/master/CHANGELOG.md
+[3]: https://github.com/Perceptyx/vagrant-tools/blob/master/docs/VAGRANT-UPLOAD.md
+[4]: https://github.com/Perceptyx/vagrant-tools/blob/master/docs/VAGRANT-DOWNLOAD.md
+[5]: https://github.com/Perceptyx/vagrant-tools/blob/master/CHANGELOG.md
 [6]: http://docs.vagrantup.com/v2/boxes/format.html
 [7]: https://github.com/vube/vagrant-boxer
 [8]: http://blog.el-chavez.me/2015/01/31/custom-vagrant-cloud-host/
