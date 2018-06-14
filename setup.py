@@ -3,7 +3,7 @@ setup(
     name="VagrantTools",
     version="0.1",
     packages=find_packages(),
-    scripts=['vagrant-download.py', 'vagrant-upload.py'],
+    scripts=['bin/vagrant-download', 'bin/vagrant-upload'],
 
     install_requires=['decorator>=3.4.2', 'ecdsa>=0.13', 
         'Fabric>=1.10.2', 'paramiko>=1.15.2', 'pycrypto>=2.6.1',
